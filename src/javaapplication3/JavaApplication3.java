@@ -9,11 +9,14 @@ package javaapplication3;
  *
  * @author 21608
  */
+
 public class JavaApplication3 {
 
     public static void t1 (){
 
         System.out.println("Hello world!");
+        
+        System.out.println("122_4");
     }
      
     
